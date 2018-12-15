@@ -25,9 +25,11 @@
 <tr>
 <td>4ης servo </td>
 <td>60E</td>
+<td></td>
 </tr>
 <tr>
 <td>2 dwenguino </td>
 <td>60E </td>
+<td></td>
 </tr> 
 </table>
