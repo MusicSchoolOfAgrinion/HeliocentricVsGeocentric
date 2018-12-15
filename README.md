@@ -20,12 +20,12 @@
 <tr>
 <td>4ης dc</td>
 <td>60E </td>
-<td>180E</td>
+<td></td>
 </tr>
 <tr>
 <td>4ης servo </td>
 <td>60E</td>
-<td></td>
+<td>180E</td>
 </tr>
 <tr>
 <td>2 dwenguino </td>
