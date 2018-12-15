@@ -13,9 +13,21 @@
 
 <table>
 <tr>
-<td>    ΥΛΙΚΑ   </td><td>  ΤΙΜΕΣ  </td><td>  ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ  </td>  
-<td>4ης dc      </td><td>60E      </td><td>      180E         </td>
-<td>4ης servo   </td><td>60E      </td>
-<td>2 dwenguino </td><td>60E      </td>
-  </tr>
-  </table>
+<td>    ΥΛΙΚΑ   </td>
+<td>  ΤΙΜΕΣ  </td>
+<td>  ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ  </td>  
+</tr>
+<tr>
+<td>4ης dc</td>
+<td>60E </td>
+<td>180E</td>
+</tr>
+<tr>
+<td>4ης servo </td>
+<td>60E</td>
+</tr>
+<tr>
+<td>2 dwenguino </td>
+<td>60E </td>
+</tr> 
+</table>
