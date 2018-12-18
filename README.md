@@ -25,14 +25,14 @@
 </tr>
 <tr>
 <td>4ης servo </td>
-<td>60E</td>
+<td>60 &euro;</td>
 </tr>
 <tr>
 <td>2 dwenguino </td>
-<td>60E </td>
+<td>60 &euro; </td>
 </tr>
 <tr>
 <td>Συνολικό Κόστος</td>
-<td>180</td>
+<td>180 &euro;</td>
 </tr> 
 </table>
