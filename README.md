@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td>4ης dc</td>
-<td>60E </td>
+<td>60 &euro; </td>
 </tr>
 <tr>
 <td>4ης servo </td>
